@@ -6,7 +6,7 @@
         <title>Project: Travel webpage</title>
     </head>
     <style> 
-        body{ }
+        body{ letter-spacing:-1px;}
         
         .czerwone{background-color:rgb(247, 0, 41);
             color:rgb(255, 255, 255); font-family: 'Domine', serif;
