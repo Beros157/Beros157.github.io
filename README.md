@@ -2,17 +2,16 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Domine&display=swap" rel="stylesheet">
         <meta charset="utf-8">
         <title>Project: Travel webpage</title>
     </head>
     <style> 
-        body {font-family: 'Muli', sans-serif;}
+        body{font-family: 'Domine', serif;}
         
         .czerwone{background-color:rgb(247, 0, 41);
-            color:rgb(255, 255, 255); font-family: 'Muli', sans-serif;
-            font-weight:bold;
-        }
+            color:rgb(255, 255, 255); font-family: 'Domine', serif;
+            font-weight:bold;}
         
         
         
@@ -46,7 +45,7 @@
         <img src='https://upload.wikimedia.org/wikipedia/commons/1/10/Warszawa_centrum.jpg' alt="the Palace of culture and since"  width="220">
         
         <h2 class="czerwone">places worth a visit </h2>
-        But poland is not only its capital there are also beautiful and virgin mountain landscape of tatra or bieszczady. calm and wonderful land of masurian lakes and many many more. if you looking for monuments you will find them as well. there are huge midival castle as Malbork which is biggest brick castle in europe and famous wawel in crocow.    
+       <p> But poland is not only its capital there are also beautiful and virgin mountain landscape of tatra or bieszczady. calm and wonderful land of masurian lakes and many many more. if you looking for monuments you will find them as well. there are huge midival castle as Malbork which is biggest brick castle in europe and famous wawel in crocow.</p>    
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Panorama_of_Malbork_Castle%2C_part_4.jpg" alt='malbork castle' width="220">
             
             
